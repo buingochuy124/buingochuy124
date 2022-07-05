@@ -3,8 +3,4 @@
 Welcome to my GitHub 
 
 
-My name is Bui Ngoc Huy
-I'm a final year student at University of Greenwich - Vietnam.
-I'm a Backend Dotnet Developer
-I am interested in Web Application Architecture
-I'm focusing on improving skills in .NET, ReactJs
+Welcome, I'm Bui Ngoc Huy. I'm a senior at the University of Greenwich-Vietnam. I work as a back-end DotNet developer. The architecture of web applications interests me. I'm focusing on improving my.NET and ReactJS skills. I hope you enjoy my profile. Thank you for reading. Best wishes!
