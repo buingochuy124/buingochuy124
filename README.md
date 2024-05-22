@@ -9,7 +9,7 @@ I’m Bui Ngoc Huy, a proud graduate of the University of Greenwich-Vietnam, cur
 ### Back-End Frameworks: .NET, Laravel, Node.js, Spring Boot.
 ### Front-End Technologies: Vue.js, React.js, Next.js, Three.js.
 
-### Thank you for visiting my profile. I hope you find my projects insightful and inspiring.
+Thank you for visiting my profile. I hope you find my projects insightful and inspiring.
 
 Best wishes!
 
