@@ -1,8 +1,7 @@
 ### Hi there 👋 
 
-Welcome to my GitHub 
+Welcome to my GitHub
 
-Hello there, I'm Bui Ngoc Huy. I graduated from the University of Greenwich-Vietnam. I work as a Software developer. The architecture of web applications interests me. I'm focusing on improving my Back-End skills with some programing languague including C#, Java, PHP, Js. I hope that you enjoy my profile. Best wishes!
-
+Hello, I'm Bui Ngoc Huy. I graduated from the University of Greenwich-Vietnam and currently work as a Software Developer at Kaopiz Co. The architecture of web applications interests me, and I'm focused on improving my back-end skills using programming languages such as C#, Java, PHP, and JavaScript. I hope you enjoy my profile. Best wishes!
 
 
