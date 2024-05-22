@@ -1,7 +1,14 @@
 ### Hi there 👋 
 
-Welcome to my GitHub
+Welcome to my GitHub!
 
-Hello, I'm Bui Ngoc Huy. I graduated from the University of Greenwich-Vietnam and currently work as a Software Developer at Kaopiz Co. The architecture of web applications interests me, and I'm focused on improving my back-end skills using programming languages such as C#, Java, PHP, and JavaScript. I hope you enjoy my profile. Best wishes!
+I’m Bui Ngoc Huy, a proud graduate of the University of Greenwich-Vietnam, currently thriving as a Software Developer at Kaopiz Co. My passion lies in the intricate architecture of web applications, and I am dedicated to honing my back-end development skills.
 
+### My Expertise:
+### Programming Languages: C#, Java, PHP, JavaScript
+### Back-End Frameworks: .NET, Laravel, Node.js, Spring Boot
+### Front-End Technologies: Vue.js, React.js, Next.js, Three.js
+### Thank you for visiting my profile. I hope you find my projects insightful and inspiring.
+
+Best wishes!
 
