@@ -7,7 +7,7 @@ I’m Bui Ngoc Huy, a proud graduate of the University of Greenwich-Vietnam, cur
 ### My Expertise:
 ### * Programming Languages: C#, Java, PHP, JavaScript.
 ### * Back-End Technologies: .NET, Laravel, Node.js, Spring Boot.
-### * Front-End Technologies: Vue.js, React.js, Next.js, Three.js.
+### * Front-End Technologies: Vue.js, Nuxt.js, React.js, Next.js, Three.js.
 
 Thank you for visiting my profile. I hope you find my projects insightful and inspiring.
 
